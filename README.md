@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Izabela França. / Olá, eu sou a Izabela França.
 
-- 🌱 I’m currently learning JavaScritp. / Atualmente, estou aprendendo JavaScript.
+- 🌱 I’m currently learning JavaScript. / Atualmente, estou aprendendo JavaScript.
 - 📖 Software Engineering student. / Estudante de Engenharia de Software.
 
 ###
